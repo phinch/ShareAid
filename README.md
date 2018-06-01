@@ -1,4 +1,6 @@
 # ShareAid
+NOTE: The most up-to-date code for this project is now located on the [BrownHCI Github fork](https://github.com/brownhci/ShareAid). If you are a collaborator, please pull and push to the HCI fork, as this repository is likely no longer being updated!
+
 Welcome to the ShareAid project! 
 
 Here is a breakdown of the different folders in this repository:
